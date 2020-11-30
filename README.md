@@ -10,3 +10,7 @@ Systems of linear equations solver.
 
 ## Running
 `python app.py`
+
+## Solver
+
+Solver uses LU matrix decomposition method implemented from scratch in Python.
